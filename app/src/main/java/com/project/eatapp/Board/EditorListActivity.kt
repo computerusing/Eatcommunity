@@ -34,7 +34,7 @@ class EditorListActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_editor_list)
         // actionbar 의 타이틀을 "글목록" 으로 변경
-        supportActionBar?.title = "나만의 리뷰"
+        supportActionBar?.title = "Editorlist"
         // 하단의 floatingActionButton 이 클릭될때의 리스너를 설정한다.
         floatingActionButton.setOnClickListener {
             // Intent 생성

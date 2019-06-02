@@ -15,7 +15,23 @@
       },
       "oauth_client": [
         {
-          "client_id": "322114620202-aia8apekn4vhfbf40l2e6m916t4r0sq4.apps.googleusercontent.com",
+          "client_id": "322114620202-povptv7ovlevd0fcuos6qep831hgjh34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.eatapp",
+            "certificate_hash": "9bf5a4370bd5df381be753b21a11ffc41db771ce"
+          }
+        },
+        {
+          "client_id": "322114620202-6qs5887g1c6clh28ld291lb7a80vifvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.eatapp",
+            "certificate_hash": "88d87f9b6afee107bad2428e749e6b0608e23b4f"
+          }
+        },
+        {
+          "client_id": "322114620202-k04a95l80kpusjv1pbkhrt1drkfrjo3e.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.project.eatapp",
@@ -29,14 +45,14 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB_LVnHw-9ZvxTcGqmE45aToq007ETM7cI"
+          "current_key": "AIzaSyCwjUB1zii0sAs5G5UhRhOd09PE0n85Bo4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "322114620202-90acagcs704musgjgbc3jnjcslftt734.apps.googleusercontent.com",
+              "client_id": "322114620202-jtegf7jnv64im0vnu32adld8pi6g733t.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
